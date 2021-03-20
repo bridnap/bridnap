@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, Github! 👋
+
+### Probably the most worked on project I have here is my [RT Search](https://github.com/bridnap/rtsearch) project.
+### I've also spent some time with GitHub Pages and built an About Me [profile](https://bridnap.github.io).
 
 <!--
 **bridnap/bridnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
